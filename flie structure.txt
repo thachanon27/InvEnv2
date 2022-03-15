@@ -2,7 +2,7 @@ File Structure
 
 If you try doing a custom environment from the official guide, chances are, you will start with building this file structure:
 
-InvEvn/
+InvEnv/
   README.md
   setup.py
   inv_env/
