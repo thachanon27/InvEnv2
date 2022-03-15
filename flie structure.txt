@@ -2,12 +2,12 @@ File Structure
 
 If you try doing a custom environment from the official guide, chances are, you will start with building this file structure:
 
-gym-basic/
+InvEvn/
   README.md
   setup.py
-  gym_basic/
+  inv_env/
     __init__.py
     envs/
       __init__.py
-      basic_env.py
-      basic_env_2.py
+      inventory_env.py
+      inventory_env_1.py
